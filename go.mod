@@ -7,7 +7,7 @@ require (
 	github.com/VividCortex/mysqlerr v0.0.0-20170204212430-6c6b55f8796f
 	github.com/alicebob/miniredis v2.5.0+incompatible
 	github.com/aws/aws-lambda-go v1.29.0
-	github.com/aws/aws-sdk-go v1.43.33
+	github.com/aws/aws-sdk-go v1.43.40
 	github.com/aws/aws-sdk-go-v2 v1.16.2
 	github.com/aws/aws-sdk-go-v2/config v1.15.3
 	github.com/aws/aws-sdk-go-v2/credentials v1.11.2
@@ -15,7 +15,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/expression v1.4.4
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.18.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.15.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.33.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.35.1
 	github.com/aws/aws-sdk-go-v2/service/ecs v1.18.5
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.15.3
 	github.com/aws/aws-sdk-go-v2/service/rds v1.18.4
@@ -27,7 +27,7 @@ require (
 	github.com/aws/aws-xray-sdk-go v1.7.0
 	github.com/aws/smithy-go v1.11.2
 	github.com/cenkalti/backoff v2.2.1+incompatible
-	github.com/cenkalti/backoff/v4 v4.1.2
+	github.com/cenkalti/backoff/v4 v4.1.3
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/elastic/go-elasticsearch/v7 v7.2.1-0.20190714143206-f1e755531ff4
 	github.com/elliotchance/redismock/v8 v8.11.0
@@ -69,8 +69,8 @@ require (
 	github.com/xitongsys/parquet-go v1.4.0
 	github.com/xitongsys/parquet-go-source v0.0.0-20191104003508-ecfa341356a6
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20220325203850-36772127a21f
-	google.golang.org/api v0.73.0
+	golang.org/x/sys v0.0.0-20220328115105-d36c6a25d886
+	google.golang.org/api v0.74.0
 	google.golang.org/grpc v1.45.0
 	google.golang.org/protobuf v1.28.0
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637
@@ -118,7 +118,7 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gomodule/redigo v1.7.1-0.20190724094224-574c33c3df38 // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
-	github.com/googleapis/gax-go/v2 v2.1.1 // indirect
+	github.com/googleapis/gax-go/v2 v2.2.0 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
 	github.com/jackc/chunkreader/v2 v2.0.1 // indirect
@@ -158,11 +158,11 @@ require (
 	go.opencensus.io v0.23.0 // indirect
 	go.uber.org/atomic v1.6.0 // indirect
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292 // indirect
-	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
+	golang.org/x/net v0.0.0-20220325170049-de3da57026de // indirect
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20220310185008-1973136f34c6 // indirect
+	google.golang.org/genproto v0.0.0-20220324131243-acbaeb5b85eb // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
